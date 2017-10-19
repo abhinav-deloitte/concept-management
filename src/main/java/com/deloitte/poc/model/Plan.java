@@ -1,5 +1,6 @@
 package com.deloitte.poc.model;
 
+//Model class for the entire project which has all the variable and respective setter and getter methods.
 public class Plan {
 
 	private int id;
